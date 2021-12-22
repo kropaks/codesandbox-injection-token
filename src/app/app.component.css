@@ -1,0 +1,10 @@
+div {
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  background-color: aquamarine;
+  border: solid red;
+}
